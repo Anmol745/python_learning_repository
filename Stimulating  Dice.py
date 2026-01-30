@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 # DICE STIMULATOR
 import random
@@ -23,10 +18,6 @@ def main():
             
 if __name__=="__main__":
     main()
-
-
-# In[13]:
-
 
 #CUSTOMIZATION 1
 
@@ -94,11 +85,8 @@ while True:
     finally:
         print("Thanks for Playing the Game")
 
-
-# In[12]:
-
-
 # CUSTOMIZATION 2
+
 import random
 
 def simulate_dice_roll(target_number, total_rolls):
@@ -118,11 +106,8 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-# In[1]:
-
-
 #Customizatin 3
+
 import random
 
 def simulate_dice_roll():
@@ -153,14 +138,10 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# In[2]:
-
-
+    
 #Customizatin 4
-import random
 
+import random
 def simulate_dice_roll():
     return random.randint(1, 6)
 
@@ -201,13 +182,9 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-# In[1]:
-
-
 #customizatin 5
-import random
 
+import random
 def simulate_dice_roll():
     return random.randint(1, 6)
 
@@ -245,14 +222,10 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# In[6]:
-
-
+    
 #Customization 6 
-import random
 
+import random
 def simulate_dice_roll():
     return random.randint(1, 6)
 
@@ -299,16 +272,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
