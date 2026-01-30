@@ -1,7 +1,7 @@
 
 # 🎲 Python Dice Simulator Projects
 
-This repository contains a collection of Python-based dice simulation projects created during my initial learning phase of Python programming.
+This repository contains a collection of Python-based dice simulation projects created during my initial learning phase of Python programming, it conatains multipe customizations done by me showcasing my skill to add new features in a project.
 
 The purpose of these projects was to strengthen:
 - Python fundamentals
@@ -22,4 +22,4 @@ Each folder represents a different version or customization of a dice-based game
 ## 🚀 How to Run
 Navigate to any project folder and run:
 ```bash
-python filename.py
+python Stimulating Dice.py
