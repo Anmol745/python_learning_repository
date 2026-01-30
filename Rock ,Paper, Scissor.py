@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 import random
-
 def get_user_choice():
     while True:
         user_choice = input("Enter 'rock', 'paper', or 'scissors': ").lower()
@@ -45,12 +38,9 @@ def play_game():
 # Start the game
 play_game()
 
-
-# In[3]:
-
+#Customization1
 
 import random
-
 def get_user_choice():
     while True:
         user_choice = input("Enter 'rock', 'paper', or 'scissors': ").lower()
@@ -106,16 +96,4 @@ def play_game():
 
 # Start the game
 play_game()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
