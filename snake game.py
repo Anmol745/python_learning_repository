@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 import turtle
 import time
 import random
@@ -76,8 +70,7 @@ def move():
         head.setx(head.xcor() + 20)
 
 # ---------------- KEYBOARD BINDINGS ----------------
-wn.listen()
-wn.onkeypress(go_up, "w")
+wn.listen()wn.onkeypress(go_up, "w")
 wn.onkeypress(go_down, "s")
 wn.onkeypress(go_left, "a")
 wn.onkeypress(go_right, "d")
@@ -157,16 +150,3 @@ while True:
     time.sleep(delay)
 
 wn.mainloop()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
